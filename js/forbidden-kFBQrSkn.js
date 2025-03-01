@@ -1,1 +1,0 @@
-import{_ as a}from"./fallback.vue_vue_type_script_setup_true_lang-CsstO9Yj.js";import{a3 as e,ae as o,a5 as r,aa as t}from"../jse/index-index-BvU5FGA4.js";import"./bootstrap-DJ3qHT56.js";import"./rotate-cw-B-_f1Y0q.js";const i=e({name:"Fallback403Demo",__name:"forbidden",setup(n){return(s,m)=>(r(),o(t(a),{status:"403"}))}});export{i as default};
